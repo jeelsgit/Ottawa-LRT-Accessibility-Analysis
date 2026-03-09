@@ -32,4 +32,4 @@ This project is a comprehensive GIS analysis of the community benefits from the 
 *   The population is aggregated at the Dissemination Area level and is assumed to be evenly distributed within that area for proportional calculations.
 
 ---
-**Created by Jeel Tandel** | [LinkedIn Profile](Your-LinkedIn-URL) | [Portfolio Website](Your-Portfolio-URL)
+**Created by Jeel Tandel** | [LinkedIn Profile](https://www.linkedin.com/in/jeel-tandel-6b6822294/) | [Portfolio Website]([Your-Portfolio-URL](https://www.jeeltandel.com/))
