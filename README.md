@@ -5,7 +5,7 @@
 ## Project Overview
 This project is a comprehensive GIS analysis of the community benefits from the City of Ottawa's O-Train Stage 2 light rail transit (LRT) expansion. The goal was to move beyond simply mapping lines and stations to quantify the real-world accessibility impact for residents. The analysis identifies the population, schools, and employment areas that fall within a 5, 10, and 15-minute walking distance of the 24 new LRT stations.
 
-**Live Demo:** [Link]([https://acgis.maps.arcgis.com/home/item.html?id=fccb9f784b324811a708820d3a2ac352](https://acgis.maps.arcgis.com/apps/mapviewer/index.html?webmap=fccb9f784b324811a708820d3a2ac352))
+**Live Demo:** [Link]((https://acgis.maps.arcgis.com/apps/mapviewer/index.html?webmap=fccb9f784b324811a708820d3a2ac352))
 
 ## Skills & Technologies Demonstrated
 *   **Data Sourcing & Cleaning:** Sourcing, projecting, and cleaning open data from municipal (City of Ottawa) and federal (Statistics Canada) sources.
